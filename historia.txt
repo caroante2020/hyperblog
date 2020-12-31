@@ -5,3 +5,5 @@ Presiona cmd + shift + p ó si estás en windows ctrl + shift + p
 Busca una opción que diga lo siguiente: Shell Command: Install 'code' command in $PATH
 Selecciónala
 Y listo, podrás utilizar dicho comando.
+
+Realizando una modificacion en el texto original.
