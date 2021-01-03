@@ -9,7 +9,3 @@ Y listo, podrás utilizar dicho comando.
 Realizando una modificacion en el texto original.
 
 Agregando otra linea para generar una linea de tiempo.
-
-Un salto mas en la historia
-
-Otro salto  mas en la historia
